@@ -2,9 +2,9 @@
 Nice shortcuts for coding Stata in NP++
 
 __Table of Contents__  
-1. [Installation](##1-Installation)
-2. [How to use it](##2-usage)
-3. [Changing shurcuts](##3-change)
+1. [Installation](#1-installation)
+2. [How to use it](#2-how-to-use-it)
+3. [Changing shurcuts](#3-changing-shortcuts)
 
 ## 1. Installation
 
