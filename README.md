@@ -22,7 +22,7 @@ By using the shortcuts Ctrl+Alt+1 and Ctrl+Alt+2 you can create section and subs
 
 ### 3. Changing shortcuts
 
-You may change the chortcuts of this files by clicking in `Macro`>`Modify Shurtcut/Delete Macro`. 
+You may change the shortcuts of this files by clicking in `Macro`>`Modify Shurtcut/Delete Macro`. 
 
 Author
 ------
